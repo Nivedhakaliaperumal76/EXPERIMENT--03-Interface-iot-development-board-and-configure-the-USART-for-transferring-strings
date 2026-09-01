@@ -200,9 +200,9 @@ int main(void)
 
   while (1)
   {
-    printf("Suruthika V\n");
-    printf("2122255040441\n");
-    printf("BE CSE\n");
+    printf("Name: K Nivedha\n");
+    printf("Register Number: 212225230204\n");
+    printf("Dpepartment: BTECH(AIDS)\n");
 
     HAL_Delay(500);
   }
